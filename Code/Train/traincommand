@@ -1,0 +1,81 @@
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud2/8B-train.log 2>&1 &
+
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/0.6B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/1.7B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/4B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/8B-train.log 2>&1 &
+
+
+
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud5/0.6B-train.log 2>&1 &
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud5/4B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud5/8B-train.log 2>&1 &
+
+
+
+
+
+
+
+
+
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud6/0.6B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud6/1.7B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud6/4B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud6/8B-train.log 2>&1 &
+
+
+
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud4/0.6B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud4/1.7B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud4/4B-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud4/8B-train.log 2>&1 &
+
+
+
+
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud1/BMB-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud2/BMB-train.log 2>&1 &
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/BMB-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud4/BMB-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud5/BMB-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud6/BMB-train.log 2>&1 &
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud1/ERNIE-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud2/ERNIE-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/ERNIE-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud4/ERNIE-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud5/ERNIE-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud6/ERNIE-train.log 2>&1 &
+
+
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/ERNI-train.log 2>&1 &
+
+
+
+
+
+
+
+
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud1/Hunyuan-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud2/Hunyuan-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud3/Hunyuan-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud4/Hunyuan-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud5/Hunyuan-train.log 2>&1 &
+torchrun --nproc_per_node=5 /home/sxk1/PycharmTrain/main.py > /home/sxk1/EI/result/trainlog/Fraud6/Hunyuan-train.log 2>&1 &
+
+
+
+
+
+
+

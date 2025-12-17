@@ -1,0 +1,134 @@
+case_id,turn_number,speaker,content,is_issue,scenario,model,response_time
+Kimi_case_1,1,客户,你好，我想咨询一下你们的产品。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,2,客服,您好！欢迎咨询，请问您对哪款产品感兴趣？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,3,客户,我对你们的最新款智能手表很感兴趣。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,4,客服,好的，我们的智能手表有多种功能，包括健康监测、运动追踪等。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,5,客户,这款手表的电池续航怎么样？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,6,客服,智能手表的电池续航可以达到7天，正常使用下无需每天充电。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,7,客户,防水性能如何？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,8,客服,我们的手表支持50米防水，适合日常淋浴和游泳。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,9,客户,价格是多少？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,10,客服,智能手表的售价是999元，现在购买还有优惠。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,11,客户,有什么优惠？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,12,客服,目前有满减活动，满1000减100，您可以享受优惠。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,13,客户,好的，我决定购买了。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,14,客服,太好了，请问您需要什么颜色？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,15,客户,黑色款。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,16,客服,好的，黑色款现货充足。请问您需要发票吗？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,17,客户,需要，公司报销用。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,18,客服,明白了，发票抬头需要提供一下。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,19,客户,抬头是XX科技有限公司。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,20,客服,好的，已为您添加发票。请问您需要什么快递？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,21,客户,顺丰快递。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,22,客服,好的，我们将尽快为您发货。请问还有其他需要帮助的吗？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,23,客户,暂时没有了，谢谢。,,产品咨询和购买,Kimi,
+Kimi_case_1,1,客户,你好，我想咨询一下你们的最新款智能手表。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,2,客服,您好！我们的最新款智能手表具有健康监测、运动追踪等功能，请问您需要了解哪方面的信息？,False,产品咨询和购买,Kimi,1秒
+Kimi_case_1,3,客户,这款手表的电池续航怎么样？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,4,客服,这款手表在正常使用下，电池续航可以达到7天。,False,产品咨询和购买,Kimi,2秒
+Kimi_case_1,5,客户,防水性能如何？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,6,客服,支持50米防水，适合日常使用和游泳。,False,产品咨询和购买,Kimi,1秒
+Kimi_case_1,7,客户,价格是多少？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,8,客服,目前售价为999元，现在购买还有优惠。,False,产品咨询和购买,Kimi,2秒
+Kimi_case_1,9,客户,有什么优惠？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,10,客服,现在购买可以享受9折优惠，并且赠送一年延长保修服务。,False,产品咨询和购买,Kimi,1秒
+Kimi_case_1,11,客户,我需要黑色款，有货吗？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,12,客服,黑色款现货充足，您可以直接下单。,False,产品咨询和购买,Kimi,2秒
+Kimi_case_1,13,客户,好的，我决定购买了。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,14,客服,感谢您的选择，请问您需要在线支付还是货到付款？,False,产品咨询和购买,Kimi,1秒
+Kimi_case_1,15,客户,在线支付，支持支付宝吗？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,16,客服,支持的，您可以直接在支付页面选择支付宝。,False,产品咨询和购买,Kimi,2秒
+Kimi_case_1,17,客户,好的，我下单了。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,18,客服,订单已收到，我们会尽快为您发货。,False,产品咨询和购买,Kimi,1秒
+Kimi_case_1,19,客户,大概多久能到？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,20,客服,根据您的地址，预计2-3天内可以送达。,False,产品咨询和购买,Kimi,2秒
+Kimi_case_1,21,客户,好的，谢谢。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,22,客服,不客气，如果有任何问题，欢迎随时联系我们。,False,产品咨询和购买,Kimi,1秒
+Kimi_case_1,23,,,,产品咨询和购买,Kimi,
+Kimi_case_3,1,Customer,你好，我收到的商品有瑕疵，想要退换。,True,退换货处理,Kimi,立即
+Kimi_case_3,2,Customer Service,您好，很抱歉给您带来不便。请问您能提供一下订单号和商品瑕疵的详细描述吗？,False,退换货处理,Kimi,5秒
+Kimi_case_3,3,Customer,订单号是12345678，商品表面有划痕。,False,退换货处理,Kimi,
+Kimi_case_3,4,Customer Service,感谢您提供信息。请问您希望退货还是换货？,False,退换货处理,Kimi,3秒
+Kimi_case_3,5,Customer,我想要换货。,False,退换货处理,Kimi,5秒
+Kimi_case_3,6,Customer Service,好的，我们将为您安排换货。请按照以下步骤操作：1. 包装好商品；2. 附上您的订单信息；3. 联系快递公司取件。,False,退换货处理,Kimi,8秒
+Kimi_case_3,7,Customer,我需要支付运费吗？,True,退换货处理,Kimi,7秒
+Kimi_case_3,8,Customer Service,由于商品瑕疵，我们将承担运费。请保留好快递单据，我们会为您报销。,False,退换货处理,Kimi,6秒
+Kimi_case_3,9,Customer,好的，我明白了。换货大概需要多久？,True,退换货处理,Kimi,8秒
+Kimi_case_3,10,Customer Service,换货处理通常需要3-5个工作日。我们会尽快处理，一旦有更新，会通过短信通知您。,False,退换货处理,Kimi,4秒
+Kimi_case_3,11,Customer,我需要提供什么信息来报销运费？,True,退换货处理,Kimi,9秒
+Kimi_case_3,12,Customer Service,请提供快递单号和支付凭证，我们会在收到商品后为您处理报销。,False,退换货处理,Kimi,5秒
+Kimi_case_3,13,Customer,好的，我会尽快寄出。,False,退换货处理,Kimi,6秒
+Kimi_case_3,14,Customer Service,感谢您的配合。如果有任何问题，欢迎随时联系我们。,False,退换货处理,Kimi,3秒
+Kimi_case_3,15,Customer,好的，谢谢。,False,退换货处理,Kimi,4秒
+Kimi_case_3,16,Customer Service,不客气，祝您生活愉快！,False,退换货处理,Kimi,2秒
+Kimi_case_3,17,Customer,对了，我还需要提供商品的照片吗？,True,退换货处理,Kimi,7秒
+Kimi_case_3,18,Customer Service,是的，如果方便的话，请提供瑕疵部分的照片，这有助于我们更快地处理您的换货请求。,False,退换货处理,Kimi,5秒
+Kimi_case_3,19,Customer,好的，我稍后会上传。,False,退换货处理,Kimi,6秒
+Kimi_case_3,20,Customer Service,非常感谢，我们会在收到照片后立即处理。,False,退换货处理,Kimi,
+Kimi_case_1,1,客户,你好，我想咨询一下你们的产品。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,2,客服,您好！欢迎咨询，请问您对哪款产品感兴趣？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,3,客户,我对你们的最新款智能手表很感兴趣。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,4,客服,好的，我们的智能手表有多种功能，包括健康监测、运动追踪等。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,5,客户,这款手表的电池续航怎么样？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,6,客服,智能手表的电池续航可以达到7天，正常使用下无需每天充电。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,7,客户,防水性能如何？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,8,客服,我们的手表支持50米防水，适合日常淋浴和游泳。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,9,客户,价格是多少？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,10,客服,智能手表的售价是999元，现在购买还有优惠。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,11,客户,有什么优惠？,True,产品咨询和购买,Kimi,即时
+Kimi_case_1,12,客服,目前有满减活动，满1000减100，您可以享受优惠。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,13,客户,好的，我决定购买了。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,14,客服,太好了，请问您需要什么颜色？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,15,客户,黑色款。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,16,客服,好的，黑色款现货充足。请问您需要发票吗？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,17,客户,需要，公司报销用。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,18,客服,明白了，发票抬头需要提供一下。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,19,客户,抬头是XX科技有限公司。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,20,客服,好的，已为您添加发票。请问您需要什么快递？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,21,客户,顺丰快递。,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,22,客服,好的，我们将尽快为您发货。请问还有其他需要帮助的吗？,False,产品咨询和购买,Kimi,即时
+Kimi_case_1,23,客户,暂时没有了，谢谢。,,产品咨询和购买,Kimi,
+Kimi_case_2,1,客户,你好，我想查询一下我的订单状态。,False,订单状态查询,Kimi,即时
+Kimi_case_2,2,客服,您好，请问您能提供一下订单号吗？,False,订单状态查询,Kimi,即时
+Kimi_case_2,3,客户,订单号是123456789。,False,订单状态查询,Kimi,即时
+Kimi_case_2,4,客服,好的，我正在为您查询订单123456789的状态。,False,订单状态查询,Kimi,即时
+Kimi_case_2,5,客服,您的订单目前处于已发货状态，预计3天内到达。,False,订单状态查询,Kimi,5秒
+Kimi_case_2,6,客户,好的，谢谢。那能提供一下物流信息吗？,False,订单状态查询,Kimi,即时
+Kimi_case_2,7,客服,当然可以，我将为您查询物流信息。,False,订单状态查询,Kimi,即时
+Kimi_case_2,8,客服,物流信息显示，您的包裹已到达上海分拣中心。,False,订单状态查询,Kimi,10秒
+Kimi_case_2,9,客户,好的，那大概什么时候能到我这里呢？,False,订单状态查询,Kimi,即时
+Kimi_case_2,10,客服,根据物流信息，预计明天下午可以到达您所在的城市。,False,订单状态查询,Kimi,5秒
+Kimi_case_2,11,客户,好的，谢谢。如果有任何更新，麻烦及时通知我。,False,订单状态查询,Kimi,即时
+Kimi_case_2,12,客服,没问题，我们会持续关注您的订单状态，并及时更新。,False,订单状态查询,Kimi,即时
+Kimi_case_2,13,客户,对了，如果我想更改收货地址，应该怎么操作？,True,订单状态查询,Kimi,即时
+Kimi_case_2,14,客服,您可以通过我们的官网或者联系客服来更改收货地址。,False,订单状态查询,Kimi,即时
+Kimi_case_2,15,客户,好的，我试试。如果更改不了，我再联系你们。,False,订单状态查询,Kimi,即时
+Kimi_case_2,16,客服,好的，如果有任何问题，随时欢迎联系我们。,False,订单状态查询,Kimi,即时
+Kimi_case_2,17,客户,好的，谢谢你们的服务。,False,订单状态查询,Kimi,即时
+Kimi_case_2,18,客服,不客气，这是我们应该做的。祝您购物愉快！,False,订单状态查询,Kimi,即时
+Kimi_case_2,19,客户,对了，我还有一个问题，订单里的商品可以开发票吗？,True,订单状态查询,Kimi,即时
+Kimi_case_2,20,客服,可以的，您在下单时可以选择开具发票。,False,订单状态查询,Kimi,即时
+Kimi_case_2,21,客户,好的，我明白了。谢谢。,False,订单状态查询,Kimi,即时
+Kimi_case_2,22,客服,不客气，如果您还有其他问题,,订单状态查询,Kimi,
+Kimi_case_3,1,Customer,你好，我收到的商品有瑕疵，想要退换。,True,退换货处理,Kimi,即时
+Kimi_case_3,2,Customer Service,您好，很抱歉给您带来不便。请问商品瑕疵具体是什么情况？,False,退换货处理,Kimi,5秒
+Kimi_case_3,3,Customer,衣服上有个洞，我拍了照片。,True,退换货处理,Kimi,即时
+Kimi_case_3,4,Customer Service,请上传照片，我们会尽快为您处理。,False,退换货处理,Kimi,3秒
+Kimi_case_3,5,Customer,照片已发送。,False,退换货处理,Kimi,即时
+Kimi_case_3,6,Customer Service,收到，我们会在24小时内审核照片并给出处理方案。,False,退换货处理,Kimi,5秒
+Kimi_case_3,7,Customer,好的，那我怎么退回商品？,True,退换货处理,Kimi,即时
+Kimi_case_3,8,Customer Service,我们会提供预付费的退货标签，您只需将商品原包装退回。,False,退换货处理,Kimi,3秒
+Kimi_case_3,9,Customer,那换货的话，我需要等多久？,True,退换货处理,Kimi,即时
+Kimi_case_3,10,Customer Service,换货处理通常需要3-5个工作日，我们会尽快安排。,False,退换货处理,Kimi,5秒
+Kimi_case_3,11,Customer,好的，我选择换货。,False,退换货处理,Kimi,即时
+Kimi_case_3,12,Customer Service,好的，我们会为您准备新的商品，并更新您的订单状态。,False,退换货处理,Kimi,3秒
+Kimi_case_3,13,Customer,换货后的商品还会不会有问题？,True,退换货处理,Kimi,即时
+Kimi_case_3,14,Customer Service,我们保证发出的商品都是经过严格检查的，但如有问题，我们会继续为您服务。,False,退换货处理,Kimi,5秒
+Kimi_case_3,15,Customer,好的，谢谢。,False,退换货处理,Kimi,即时
+Kimi_case_3,16,Customer Service,不客气，我们会通过邮件通知您退货标签和换货进度。,False,退换货处理,Kimi,3秒
+Kimi_case_3,17,Customer,好的，我等邮件通知。,False,退换货处理,Kimi,即时
+Kimi_case_3,18,Customer Service,好的，如果有任何问题，欢迎随时联系我们。,False,退换货处理,Kimi,5秒
+Kimi_case_3,19,Customer,了解了，谢谢你们的服务。,False,退换货处理,Kimi,即时
+Kimi_case_3,20,Customer Service,感谢您的理解，祝您生活愉快！,False,退换货处理,Kimi,3秒
+Kimi_case_3,21,Customer,再见。,False,退换货处理,Kimi,即时
+Kimi_case_3,22,Customer Service,再见，期待再次为您服务。,,退换货处理,Kimi,
