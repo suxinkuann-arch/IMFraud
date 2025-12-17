@@ -1,4 +1,5 @@
 # IMFraud
+Due to memory reasons, if you need the dataset or CheckPoint, please contact the author: suxinkuann@gmail.com
 # 🕵️ AI Dialogue Generator for Fraud Detection Research
 
 ## 📖 Overview
