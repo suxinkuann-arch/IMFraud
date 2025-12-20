@@ -14,9 +14,9 @@ class Settings:
     # 三个AI模型的配置 - 主要区别在对话轮数
     MODELS_CONFIG: Dict[str, ModelConfig] = {
         "DouBao": ModelConfig(
-            api_key="e0a6b59d-aae2-4283-9022-5933c886384f",
+            api_key="e0a6b59d-aae2933c886384f",
             base_url="https://ark.cn-beijing.volces.com/api/v3",
-            model_name="ep-20250603202608-psbpt",
+            model_name="ep-20b",
             output_dir=r"D:\Study\Paper\EI\Data\4Gambling\Neg\csv2\DouBao",
             prompt_template='''
 role: 你是一名正规彩票店的工作人员，需要生成真实的购买彩票对话。
@@ -48,7 +48,7 @@ output:
 '''
         ),
         "DeepSeek": ModelConfig(
-            api_key="sk-f39ed21442744903866119bd5241e034",
+            api_key="sk-f39ed41e034",
             base_url="https://api.deepseek.com/v1",
             model_name="deepseek-chat",
             output_dir=r"D:\Study\Paper\EI\Data\4Gambling\Neg\csv2\DeepSeek",
@@ -82,7 +82,7 @@ output:
 '''
         ),
         "Kimi": ModelConfig(
-            api_key="sk-a326c5NUVWg3ORriwWQNalNPes64K8Fs6szRvlbmTcQCRAj0",
+            api_key="sk-a3lbmTcQCRAj0",
             base_url="https://api.moonshot.cn/v1",
             model_name="moonshot-v1-8k",
             output_dir=r"D:\Study\Paper\EI\Data\4Gambling\Neg\csv2\Kimi",
@@ -115,5 +115,6 @@ output:
 '''
         )
     }
+
 
 settings = Settings()
