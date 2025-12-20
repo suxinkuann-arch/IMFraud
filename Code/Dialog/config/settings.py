@@ -22,19 +22,19 @@
 #     # AI模型配置
 #     MODELS_CONFIG: Dict[str, ModelConfig] = {
 #         "DouBao": ModelConfig(
-#             api_key="e0a6b59d-aae2-4283-9022-5933c886384f",
+#             api_key="e0a6b886384f",
 #             base_url="https://ark.cn-beijing.volces.com/api/v3",
 #             model_name="ep-20250603202608-psbpt",
 #             output_dir=r"D:\Study\Paper\Data\冒充客服诈骗\A.正例\1.对话csv文件\DouBao"
 #         ),
 #         "DeepSeek": ModelConfig(
-#             api_key="sk-f48226c756664a748816e3f3340fa2b2",
+#             api_key="sk-16e3f3340fa2b2",
 #             base_url="https://api.deepseek.com/v1",
 #             model_name="deepseek-chat",
 #             output_dir=r"D:\Study\Paper\Data\冒充客服诈骗\A.正例\1.对话csv文件\DeepSeek"
 #         ),
 #         "Kimi": ModelConfig(
-#             api_key="sk-kYL2gvcEYFuT3xsenQo7PrUkCFIOI8qWa0jX6XN7lFffY2L6",
+#             api_key="sk-kYL2gI8qWa0jX6XN7lFffY2L6",
 #             base_url="https://api.moonshot.cn/v1",
 #             model_name="moonshot-v1-8k",
 #             output_dir=r"D:\Study\Paper\Data\冒充客服诈骗\A.正例\1.对话csv文件\Kimi"
@@ -204,4 +204,5 @@ settings = Settings()
 
 #output:输出。result：-表示数组,description:说明。
 #最后返回一个数组，数组的每一个元素均为speaker+content+is_fraud+reason。一个数组就是一个对话, 一个数组的每一个元素就是对话中的一句话。
+
 
